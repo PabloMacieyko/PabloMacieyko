@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 Soy Pablo, un apasionado programador en constante crecimiento. Con 30 años, estoy decidido a explorar y aprender en el vasto mundo del desarrollo de software.<br><br>Mi enfoque va más allá del código: me encanta colaborar en equipo y enfrentar desafíos que me hagan evolucionar como profesional. Soy un firme creyente en la importancia del trabajo en equipo y el intercambio de conocimientos.<br><br>Busco oportunidades para crecer y contribuir en proyectos emocionantes. Mi entusiasmo y dedicación son mis mejores herramientas.<br><br>¡Saludos!
 
 💫 About Me:
